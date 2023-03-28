@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FavoriteBook</string>
+    <string name="Open">Открыть экран ввода данных</string>
+    <string name="favoritebook">Тут появится название вашей любимой книги!</string>
+    <string name="hitinBook">Введите название вашей любимой книги</string>
+    <string name="name"></string>
+    <string name="developerBook">Любимая книга разработчика - Цветы для Элджернона</string>
+    <string name="send">Отправить</string>
+</resources>

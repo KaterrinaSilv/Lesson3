@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="time">get  system time</string>
+</resources>
